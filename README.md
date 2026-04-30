@@ -8,7 +8,7 @@ The system is intended to continuously monitor known piracy sources for movie-re
 
 This project is currently **under development**.
 
-MovieGuard is my **dream project**, and it is still **unfinished**. I am actively building and improving it step by step.
+MovieGuard is my **dream project**, and it is still **unfinished**. I am actively building and improving it step by step and it may take more time
 
 ## About the Project
 
